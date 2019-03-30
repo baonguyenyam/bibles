@@ -75,7 +75,7 @@
 
 	.ym-hlist ul li.active {
 	background:#666;
-	background: #AA2023;
+	background: #006666;
 	-webkit-border-radius: 0.2em;
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
@@ -92,3 +92,4 @@
 		color:#FEFEFC;
 		text-decoration:none;
 	}
+	

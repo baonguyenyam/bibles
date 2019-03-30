@@ -277,7 +277,7 @@ list-style-image: url('../img/read.png' );
 	BORDER-RIGHT: #909090 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #909090 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.7em; BORDER-LEFT: #909090 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #909090 1px solid; BACKGROUND-COLOR: #f1f1f1; TEXT-ALIGN: justify
 }
 .noteBox_2023 {
-	BORDER-RIGHT: #AA2023 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #AA2023 1px solid; PADDING-LEFT: 0.5em; BORDER-LEFT: #AA2023 1px solid; BORDER-BOTTOM: #AA2023 1px solid; PADDING-BOTTOM: 0.7em; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: justify
+	BORDER-RIGHT: #006666 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #006666 1px solid; PADDING-LEFT: 0.5em; BORDER-LEFT: #006666 1px solid; BORDER-BOTTOM: #006666 1px solid; PADDING-BOTTOM: 0.7em; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: justify
 }
 .whitestrip {
 	BORDER-RIGHT: #f1f1f1 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #f1f1f1 1px solid; PADDING-LEFT: 0.5em; xFONT-SIZE: 12pt; PADDING-BOTTOM: 0.5em; MARGIN: 0px; BORDER-LEFT: #f1f1f1 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #f1f1f1 1px solid; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
@@ -293,7 +293,7 @@ list-style-image: url('../img/read.png' );
      padding-top: 0px;
      margin-bottom: -10px;
      font-size: 700%;
-     color: #AA2023;
+     color: #006666;
  }
  .bqend {
      float: right;
@@ -301,6 +301,6 @@ list-style-image: url('../img/read.png' );
      margin-top: -50px;
      padding-top: -5px;
      font-size: 700%;
-     color: #AA2023;
+     color: #006666;
  }
 	

@@ -225,7 +225,7 @@
 	/*--- Links ----------------------------------------------------------------------------------------- */
 
 	a {
-	color:#AA2023;
+	color:#006666;
 	background:transparent;
 	text-decoration:none;
 	}
@@ -236,7 +236,7 @@
 	/* (en) Maximaler Kontrast für Tab Focus - Ändern Sie diese Regel mit Bedacht */
 	a:hover,
 	a:focus {
-	color:#AA2023;
+	color:#006666;
 	text-decoration:underline;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.1);
 	}
@@ -326,7 +326,7 @@
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-	background: #AA2023;
+	background: #006666;
 	color: #FEFEFC;
 	/* [disabled]font-size: 90%; */
 	text-transform: uppercase;

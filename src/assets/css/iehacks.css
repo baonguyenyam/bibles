@@ -221,7 +221,7 @@
 	*/
 
 	button, input { *overflow: visible;
-	background-color: #AA2023; }
+	background-color: #006666; }
 	table button, table input { *overflow: auto; }
 
 	fieldset, legend { position:relative; }
@@ -388,7 +388,7 @@
 	.ym-gbox-right,
 	.ym-col3 { height:1%; }
 }
-header { background: #AA2023;
+header { background: #006666;
 	color: #ccc; 
 }
 
