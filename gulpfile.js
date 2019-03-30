@@ -15,7 +15,8 @@ taskList.forEach(function (taskFile) {
 // Lệnh mặc định của Gulp
 gulp.task('default', function (callback) {
 	runSequence(
-		'html',
+		// 'html-min',
+		// 'html',
 		'watch',
 		'browser-sync',
 		callback
