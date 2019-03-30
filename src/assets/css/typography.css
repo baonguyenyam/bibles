@@ -10,13 +10,14 @@
 	samp,
 	var,
 	tt {
-		font-family: Georgia, "Times New Roman", Times, serifGeorgia, "Times New Roman", Times, serif;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
 	}
 
 	/* (en) base layout gets standard font size 14px */
 	/* (de) Basis-Layout erhält Standardschriftgröße von 14 Pixeln */
 	body {
-	font-family: Georgia, "Times New Roman", Times, serif;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	font-size:100%; /* base: 14px */
 	color:#111;
 	/* (en) Prevent auto-scaling of text in mobile webkit browsers */
@@ -32,7 +33,7 @@
 	h4,
 	h5,
 	h6 {
-	font-family: Georgia, "Times New Roman", Times, serif;
+	
 	font-weight: 400;
 	color:#111;
 	margin:0;
@@ -144,7 +145,7 @@
 	}
 
 	blockquote, cite, q {
-		font-family: Georgia, "Times New Roman", Times, serif;
+		
 		font-style:italic;
 	}
 
@@ -317,7 +318,7 @@
 	}
 
 	.label {
-	font-family: Georgia, "Times New Roman", Times, serif;
+	
 	padding: 2px 4px 2px 4px;
 	display: inline-block;
 	vertical-align:central;
