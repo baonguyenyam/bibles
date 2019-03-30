@@ -343,7 +343,8 @@ list-style-image: url('../img/read.png' );
 	display: block
 }
  span.lit a,  span.lit span,
- p.ym-noprint a,  p.ym-noprint span{
+ p.ym-noprint a,  p.ym-noprint span, 
+div.ym-noprint a, div.ym-noprint span{
 	background: #e3e3e3;
 	display: inline-block;
 	padding: .3rem .75rem;
@@ -355,7 +356,8 @@ list-style-image: url('../img/read.png' );
  }
 
  span.lit a:hover,  span.lit span,
- p.ym-noprint a:hover,  p.ym-noprint span{
+ p.ym-noprint a:hover,  p.ym-noprint span, 
+ div.ym-noprint a:hover,  div.ym-noprint span{
 	background: #006666;
 	color: #fff;
  }
