@@ -339,7 +339,10 @@ list-style-image: url('../img/read.png' );
  footer .alignCenter{
 	margin-top: 0 ;
  }
-
+ span.lit {
+	display: block
+}
+ span.lit a,  span.lit span,
  p.ym-noprint a,  p.ym-noprint span{
 	background: #e3e3e3;
 	display: inline-block;
@@ -347,11 +350,16 @@ list-style-image: url('../img/read.png' );
 	border-radius: 3px;
 	color: #000;
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 110%;
   margin: 0 .15rem 0.35rem .15rem;
  }
+
+ span.lit a:hover,  span.lit span,
  p.ym-noprint a:hover,  p.ym-noprint span{
 	background: #006666;
 	color: #fff;
-	font-size: 16px
+ }
+ .breadCrumbs a {
+	 color: #006666;
+	 font-size: 110%
  }
